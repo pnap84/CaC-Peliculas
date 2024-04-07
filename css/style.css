@@ -36,8 +36,8 @@ header {
 }
 #miniatura{
     margin: 0.5%;
-    border-width: 1px;
-    border-radius: 2px;
+    border-width: 3px;
+    border-radius: 5px;
     border-color: rgb(71, 71, 183);
 }
 
