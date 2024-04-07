@@ -26,7 +26,7 @@ header {
     text-align: right;
 }
 #principal{
-    background-image: url("C:\Users\Paul\Desktop\Repositorio peliculas\CaC-Peliculas\img\capitolBG.jpg");
+    background-image: url("capitolBG.jpg");
     background-size: cover;
     height: 500px;
     
@@ -36,7 +36,8 @@ header {
 }
 #miniatura{
     margin: 0.5%;
-    border-width: 3px;
+    border-width: 1px;
+    border-style:solid;
     border-radius: 5px;
     border-color: rgb(71, 71, 183);
 }
