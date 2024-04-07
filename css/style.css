@@ -1,0 +1,54 @@
+*{
+    font-family: "raleway";
+    margin:0%;
+}
+
+header {
+    width:100%;
+    height: 10%;
+    background-color: rgb(255, 255, 255);
+    color:black;
+}
+.tituloprincipal{
+    color: rgb(71, 71, 183);
+    font-size:xx-large  
+    font-
+}
+.menu li{
+    display:inline;
+     
+}
+.menu li:hover{
+    font-weight: bold;
+    cursor:pointer;
+}
+.menu {
+    text-align: right;
+}
+#principal{
+    background-image: url("capitolBG.jpg");
+    background-size: cover;
+    height: 500px;
+    
+}
+#buscar{
+    margin: 1%;
+}
+#miniatura{
+    margin: 0.5%;
+}
+
+body {
+background: rgb(176, 176, 210);
+}
+
+footer {
+    background-color: rgb(132,132,183);
+    color:black;
+    margin: 1%;
+    }
+
+a{
+color: black;
+font-weight: bold;
+}
